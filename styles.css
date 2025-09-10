@@ -1,0 +1,47 @@
+* {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+}
+
+code {
+    font-family: "Source Code Pro", monospace;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+    max-width: 100%;
+}
+
+footer {
+    background-color: rgb(35, 17, 97);
+    color: rgb(201, 151, 0);
+    font-weight: bold;
+    padding: 50px;
+}
+
+h1, h2 {
+    font-weight: bold;
+}
+
+.algorithm {
+    margin: 50px 0;
+}
+
+.algorithm:first-of-type {
+    margin-top: 50px;
+}
+
+.container {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.description {
+    font-style: italic;
+}
+
+#header {
+    text-align: center;
+    margin: 75px 0;
+}
